@@ -5,11 +5,17 @@ The tool adopts a front-end and back-end separation project development framewor
 
 ### file directory
 -- CVCES
+
 ---- CVCES-frontend, the packaged front-end files.
+
 ---- CVCES-backend-1.0-SNAPSHOT.jar, the packaged back-end jar file.
+
 ---- startBackend.bat，launch tool files.
+
 -- CVCES-data, provides five running cases from the paper, which can be executed using the tool.
+
 -- nginx-1.22.1，front-end deployment tool
+
 -- CVCES Tool Demo Video.mp4, the video file demonstrates the operation of the tool using the running case LCS.
 
 ### Tool deployment
@@ -17,7 +23,10 @@ To deploy this tool, simply place the folders "nginx-1.22.1" and "CVCES" in the 
 
 ### Tool Startup
 The process to start the tool is as follows:
+
 Open the "nginx-1.22.1" folder and double-click on "nginx.exe" to start;
+
 Open the "CVCES" folder and double-click on "startBackend.bat" to start.
+
 This will launch the tool.
 
