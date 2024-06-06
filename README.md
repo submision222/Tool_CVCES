@@ -4,7 +4,7 @@ The tool adopts a front-end and back-end separation project development framewor
 -- CVCES-frontend, the packaged front-end files
 -- CVCES-backend-1.0-SNAPSHOT.jar, the packaged back-end jar file
 
-To deploy this tool, simply place the folders "nginx-1.22.1" and "CVCES" in the local computer's path "C:".
+To deploy this tool, simply place the folders "nginx-1.22.1" and "CVCES" in the local computer's path "C:/".
 
 The process to start the tool is as follows:
 
