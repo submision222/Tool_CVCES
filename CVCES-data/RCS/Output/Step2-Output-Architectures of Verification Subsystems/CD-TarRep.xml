@@ -1,0 +1,5 @@
+Controller as TarRep
+Entity as DCD
+Datastorage as TAI
+[TarRep] -> interface1 - [TAI]
+[TarRep] -> interface2 - [DCD]

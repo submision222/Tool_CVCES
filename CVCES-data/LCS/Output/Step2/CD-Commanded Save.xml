@@ -1,0 +1,9 @@
+Controller as CS
+Entity as PG, OP
+Datastorage as LC
+[CS] --> interface1
+interface1 - [PG]
+[PG] --> interface2
+interface2 - [OP]
+[CS] --> interface3
+interface3 - [LC]

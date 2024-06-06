@@ -1,0 +1,5 @@
+Controller as CRUPCC
+Entity as DCD
+Datastorage as WCC
+[CRUPCC] -> interface1 - [DCD]
+[CRUPCC] -> interface2 - [WCC]

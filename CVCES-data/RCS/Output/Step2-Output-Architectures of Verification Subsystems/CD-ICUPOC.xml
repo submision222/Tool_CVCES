@@ -1,0 +1,5 @@
+Controller as ICUPOC
+Entity as DCD
+Datastorage as WCC
+[ICUPOC] -> interface1 - [DCD]
+[ICUPOC] -> interface2 - [WCC]

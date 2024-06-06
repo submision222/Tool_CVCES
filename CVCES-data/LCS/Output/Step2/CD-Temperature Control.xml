@@ -1,0 +1,9 @@
+Controller as TC
+Entity as TS, NE
+Datastorage as ACC
+[TC] --> interface1
+interface1 - [TS]
+[TS] -> interface2
+interface2 - [NE]
+[TC] --> interface3
+interface3 - [ACC]

@@ -1,0 +1,5 @@
+Controller as SPUPOC
+Entity as DCD
+Datastorage as WCC
+[SPUPOC] -> interface1 - [DCD]
+[SPUPOC] -> interface2 - [WCC]

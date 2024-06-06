@@ -1,0 +1,7 @@
+Controller as TDCO, OpenDoors
+Entity as TrainDoor, CL
+Datastorage as TrainData
+[OpenDoors] -> interface1 - [TrainData]
+[OpenDoors] -> interface2 - [CL]
+[TDCO] -> interface3 - [TrainData]
+[TDCO] -> interface4 - [TrainDoor]

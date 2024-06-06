@@ -1,0 +1,5 @@
+Controller as OpenDoors
+Entity as CL
+Datastorage as TrainData
+[OpenDoors] -> interface1 - [TrainData]
+[OpenDoors] -> interface2 - [CL]

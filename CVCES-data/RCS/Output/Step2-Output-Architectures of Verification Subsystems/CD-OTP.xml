@@ -1,0 +1,11 @@
+Controller as OTP
+Entity as DCD, ICUS, SPUS, JPUS,CRUS
+Datastorage as TD, WCC
+[TR] -> interface1 - [ICUS]
+[TR] -> interface2 - [CRUS]
+[TR] -> interface3 - [SPUS]
+[TR] -> interface4 - [JPUS]
+[TR] -> interface5 - [TD]
+[TR] -> interface6 - [DCD]
+[OTP] -> interface7 - [TD]
+[OTP] -> interface8 - [WCC]

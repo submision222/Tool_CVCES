@@ -1,0 +1,5 @@
+Controller as JPUPOC
+Entity as DCD
+Datastorage as WCC
+[JPUPOC] -> interface1 - [DCD]
+[JPUPOC] -> interface2 - [WCC]

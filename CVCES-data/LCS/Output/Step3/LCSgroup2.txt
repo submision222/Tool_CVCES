@@ -1,0 +1,44 @@
+Options for the verification:
+  Generating no trace
+  Search order is breadth first
+  Using conservative space optimisation
+  Seed is 1717675324
+  State space representation uses minimal constraint systems
+[2K
+Verifying formula 1 at /nta/queries/query[1]/formula
+ -- Throughput: 66996 states/sec, Load: 31239 states[K
+ -- Throughput: 63339 states/sec, Load: 43403 states[K
+ -- Throughput: 65098 states/sec, Load: 53250 states[K
+ -- Throughput: 67299 states/sec, Load: 61609 states[K
+ -- Throughput: 66816 states/sec, Load: 69301 states[K
+ -- Throughput: 66762 states/sec, Load: 76483 states[K
+ -- Throughput: 63450 states/sec, Load: 84162 states[K
+ -- Throughput: 66043 states/sec, Load: 88788 states[K
+ -- Throughput: 65767 states/sec, Load: 93903 states[K
+ -- Throughput: 64375 states/sec, Load: 101337 states[K
+ -- Throughput: 64063 states/sec, Load: 107268 states[K
+ -- Throughput: 65497 states/sec, Load: 108581 states[K
+ -- Throughput: 64044 states/sec, Load: 114467 states[K
+ -- Throughput: 65715 states/sec, Load: 115264 states[K
+ -- Throughput: 67396 states/sec, Load: 117423 states[K
+ -- Throughput: 59182 states/sec, Load: 118223 states[K
+ -- Throughput: 68168 states/sec, Load: 116383 states[K
+ -- Throughput: 67237 states/sec, Load: 116119 states[K
+ -- Throughput: 69750 states/sec, Load: 111411 states[K
+ -- Throughput: 68629 states/sec, Load: 109541 states[K
+ -- Throughput: 67739 states/sec, Load: 106651 states[K
+ -- Throughput: 70640 states/sec, Load: 101472 states[K
+ -- Throughput: 69622 states/sec, Load: 97303 states[K
+ -- Throughput: 70555 states/sec, Load: 90828 states[K
+ -- Throughput: 70468 states/sec, Load: 83528 states[K
+ -- Throughput: 71184 states/sec, Load: 74278 states[K
+ -- Throughput: 71828 states/sec, Load: 63702 states[K
+ -- Throughput: 72480 states/sec, Load: 50221 states[K
+ -- Throughput: 75452 states/sec, Load: 33230 states[K
+ -- Throughput: 84289 states/sec, Load: 5624 states[K
+[2K -- Formula is satisfied.
+ -- States stored : 1687616 states
+ -- States explored : 2068240 states
+ -- CPU user time used : 10953 ms
+ -- Virtual memory used : 257064 KiB
+ -- Resident memory used : 122716 KiB

@@ -1,0 +1,8 @@
+Controller as SDCO, CloseDoors
+Entity as StationDoor, Driver, CL
+Datastorage as StationData
+[Driver] -> interface1 - [CloseDoors]
+[CL] -> interface2 - [CloseDoors]
+[CloseDoors] -> interface3 - [StationData]
+[SDCO] -> interface4 - [StationData]
+[SDCO] -> interface5 - [StationDoor]

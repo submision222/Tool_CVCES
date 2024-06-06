@@ -1,0 +1,9 @@
+Controller as TR
+Entity as DCD, ICUS, SPUS, JPUS,CRUS
+Datastorage as TD
+[TR] -> interface1 - [ICUS]
+[TR] -> interface2 - [CRUS]
+[TR] -> interface3 - [SPUS]
+[TR] -> interface4 - [JPUS]
+[TR] -> interface5 - [TD]
+[TR] -> interface6 - [DCD]
